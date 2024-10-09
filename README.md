@@ -2,7 +2,7 @@
 Harness Open Source is an open source development platform packed with the power of code hosting, automated DevOps pipelines, hosted development environments (Gitspaces), and artifact registries.
 
 ## Overview
-Harness Open source is an open source development platform packed with the power of code hosting, automated DevOps pipelines, Gitspaces, and artifact registries.
+Harness Open source is an open source development platform packed with the power of code hosting, automated DvOps pipelines, Gitspaces, and artifact registries.
 
 
 ## Running Harness locally
@@ -41,7 +41,7 @@ For more information on Drone, please visit [drone.io](https://www.drone.io/).
 ## Harness Open Source Development
 ### Pre-Requisites
 
-Install the latest stable version of Node and Go version 1.20 or higher, and then install the below Go programs. Ensure the GOPATH [bin directory](https://go.dev/doc/gopath_code#GOPATH) is added to your PATH.
+Install the latest stable version of Node and Go version 1.20 or higher, and then install the below Go rograms. Ensure the GOPATH [bin directory](https://go.dev/doc/gopath_code#GOPATH) is added to your PATH.
 
 Install protobuf
 - Check if you've already installed protobuf ```protoc --version```
