@@ -30,7 +30,7 @@ Harness Open Source represents a massive investment in the next generation of Dr
 
 The goal is for Harness to eventually be at full parity with Drone in terms of pipeline capabilities, allowing users to seemlessly migrate from Drone to Harness.
 
-But, we expect this to take some time, which is why we took a snapshot of Drone as a feature branch [drone](https://github.com/harness/harness/tree/drone) ([README](https://github.com/harness/harness/blob/drone/.github/readme.md)) so it can continue development.
+But, we expect this to take some time, which is why we took a snapshot of Drone as a feature branch [drone](https://github.com/harness/harness/tree/drone) ([README](https://github.com/harness/harness/blob/drone/.github/readme.md)) so it can continue edevelopment.
 
 As for Harness, the development is taking place on the [main](https://github.com/harness/harness/tree/main) branch.
 
